@@ -1,7 +1,7 @@
 export const userConfig = {
-  name: 'Your Name',
-  title: 'Digital Creator | Web Developer | Content Creator',
-  profileImage: 'https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=400&h=400&fit=crop',
+  name: 'Rafly Azwar',
+  title: 'Fullstack Developer | Web Developer',
+  profileImage: 'profile.jpg',
   socialLinks: [
     {
       name: 'Instagram',
@@ -12,7 +12,7 @@ export const userConfig = {
     {
       name: 'TikTok',
       url: 'https://tiktok.com/@yourusername',
-      image: 'https://images.unsplash.com/photo-1611605698335-8b1569810432?w=100&h=100&fit=crop',
+      image: '',
       color: 'hover:bg-black',
     },
     {
@@ -30,7 +30,7 @@ export const userConfig = {
     {
       name: 'WhatsApp',
       url: 'https://wa.me/yourphonenumber',
-      image: 'https://images.unsplash.com/photo-1614680376739-414d95ff43df?w=100&h=100&fit=crop',
+      image: '',
       color: 'hover:bg-green-600',
     },
   ],
