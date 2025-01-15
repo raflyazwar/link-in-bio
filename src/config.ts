@@ -1,7 +1,7 @@
 export const userConfig = {
   name: 'Rafly Azwar',
   title: 'Fullstack Developer | Web Developer',
-  profileImage: 'https://imgbb.com/"><img src="https://i.ibb.co.com/M2NRG46/profile.jpg',
+  profileImage: 'https://i.ibb.co.com/M2NRG46/profile.jpg',
   socialLinks: [
     {
       name: 'Instagram',
